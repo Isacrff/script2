@@ -3,10 +3,19 @@
     --cor-frente: #FFFFFF;
     --cor-verso:  #000000; 
     --destaque: #00FFFF;
+    --preto: #000000;
     --branco: #FFFFFF;
-
 }
 
 body{
     background-color: var(--fundo);
+}
+
+footer{
+ position: absolute;
+ bottom: 0;
+ background-color: var(--preto);
+ color: var(--branco);
+ width: 100%; 
+ text-align: center;
 }
