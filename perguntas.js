@@ -101,7 +101,7 @@ criaCartao(
     'Parte oculta da mente'
 )
     
-    criaCartão(
+    criaCartao(
     'Linguística',
     'O que é morfologia?',
     'Estudo das palavras'
