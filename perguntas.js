@@ -1,6 +1,6 @@
 criaCartao(
     'Literatura Brasileira',
-    'Quem foi Machado de Assis?'',
+    'Quem foi Machado de Assis?',
     'Escritor brasileiro'
 )
     
