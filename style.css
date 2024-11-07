@@ -79,7 +79,7 @@ footer{
     transform: rotateY(180deg);
 }
 
-.pergunta-cartão, .resposta-cartao{
+.pergunta-cartao, .resposta-cartao{
     position: absolute;
     height: 100%;
     width: 100%;
