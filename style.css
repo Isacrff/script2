@@ -12,6 +12,17 @@ body{
     margin:0;
 }
 
+header {
+    background-color: var(--preto);
+    padding: 40px;
+    display: flex;
+    justify-content:space-around;
+}
+
+header a {
+    color: var(--branco)
+}
+
 footer{
  position: absolute;
  bottom: 0;
@@ -33,6 +44,10 @@ footer{
     flex-basis: calc(33% - 6rem);
     height: 20rem;
     margin: 1rem;
+}
+
+.cartao:hover{
+    transform: scale(1.04)
 }
 
 .conteudo-cartao{
